@@ -1437,16 +1437,66 @@ body {
 .cid-rofpRXX5d6 .mbr-text {
   color: #767676;
 }
-.cid-rofumV8BFb {
+.cid-rpi5ecvSVH {
   padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
 }
-.cid-rofumV8BFb .mbr-text {
+.cid-rpi5ecvSVH .mbr-section-subtitle {
   color: #767676;
+  text-align: center;
+}
+.cid-rpi5ecvSVH .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rpi4pe4W0R {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-rpi4pe4W0R .card-box {
+  background-color: #f9f9f9;
+  padding: 2rem;
+}
+.cid-rpi4pe4W0R h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rpi4pe4W0R p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rpi4pe4W0R .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rpi4pe4W0R .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rpi4pe4W0R .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rpi3029OGs {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+}
+.cid-rpi3029OGs .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-rpi3029OGs .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-roewAxmhdp {
-  padding-top: 120px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/p1020455-2000x1502-800x601.jpg");
 }
