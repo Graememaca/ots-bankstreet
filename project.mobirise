@@ -40,7 +40,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/house-icon.svg",
     "noImageResize": "",
     "uniqCompNum": 21,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png"
   },
   "pages": {
